@@ -29,6 +29,8 @@ The development dataset used for this task is the TAU Urban Acoustic Scenes 2020
 - [30 GB Dataset](https://zenodo.org/records/3819968)
 - [11 GB Dataset](https://zenodo.org/records/4767109)
 
+Click on the links above to access the datasets.
+
 ## Project Overview
 
 - The goal of this project was to develop an audio classification model to classify the acoustic scenes present in the audio recordings. Initially, a smaller subset of the dataset (11 GB) was used with basic parameters, achieving an accuracy of 58%.
