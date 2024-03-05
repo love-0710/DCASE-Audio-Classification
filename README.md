@@ -54,7 +54,7 @@ The development dataset used for this task is the TAU Urban Acoustic Scenes 2020
 This project was conducted as part of the DCASE 2021 challenge Task-1 and was made possible by the dataset provided by Tampere University of Technology. The research received funding from the European Research Council (grant agreement 637422 EVERYSOUND).
 ## Authors
 
-- Love Kumar YAdav
+- Love Kumar Yadav
 
 ## License
 
