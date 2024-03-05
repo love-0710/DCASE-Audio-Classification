@@ -1,4 +1,4 @@
-## DCASE 2021 Task 1 - Audio Classification
+## DCASE 2021 Task 1 - Audio Classification Using CNN & RNN
 
 This repository contains the code and resources for the DCASE 2021 Task 1 - Audio Classification project conducted as part of the Detection and Classification of Acoustic Scenes and Events (DCASE) challenge.
 Dataset Information
